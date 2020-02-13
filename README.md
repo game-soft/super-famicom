@@ -1,8 +1,8 @@
 ## Super Famicom Soft List
 ### Super Family Computer（SNES） soft list of release dates
 
-[![NPM Version](https://img.shields.io/npm/v/@game-soft/disk-system.svg)](https://www.npmjs.com/package/@game-soft/disk-system)
-[![NPM Downloads](http://img.shields.io/npm/dm/@game-soft/disk-system.svg)](https://www.npmjs.com/package/@game-soft/disk-system)
+[![NPM Version](https://img.shields.io/npm/v/@game-soft/super-famicom.svg)](https://www.npmjs.com/package/@game-soft/super-famicom)
+[![NPM Downloads](http://img.shields.io/npm/dm/@game-soft/super-famicom.svg)](https://www.npmjs.com/package/@game-soft/super-famicom)
 
 ### file data tree
 
