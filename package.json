@@ -1,6 +1,6 @@
 {
   "name": "@game-soft/super-famicom",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "main": "lib/main.js",
   "description": "Super Family Computer（SNES） soft list of release dates",
   "files": [
